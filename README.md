@@ -1,5 +1,4 @@
 # python_for_DS
-for homeworks
 
 This repository contains practice of python libraries essential for Data Science.
 
